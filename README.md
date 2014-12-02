@@ -1,4 +1,4 @@
-tempo-bom
+climax
 =========
 
-Primeira aplicação publicada no android (Baseada no curso de android provido por Udacity)
+Primeira aplicação android (Baseada no curso de android provido por Udacity)
