@@ -1,0 +1,77 @@
+<resources>
+    <string name="title_activity_settings">Configurações</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_location_label">Localização</string>
+    <string name="pref_location_key">local</string>
+    <string name="pref_location_default">06145045</string>
+    <string name="pref_units_key">unidade</string>
+    <string name="pref_units_label">Unidade de temperatura</string>
+    <string name="pref_units_metric">0</string>
+    <string name="pref_units_imperial">1</string>
+
+    <string-array name="pref_units_list_title">
+        <item>Imperial</item>
+        <item>Métrica</item>
+    </string-array>
+    <string-array name="pref_units_list_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="pref_title_social_recommendations">Habilitar redes sociais</string>
+    <string name="pref_description_social_recommendations">Recomendações baseadas em histórico
+    </string>
+
+    <string name="pref_title_display_name">Nome a ser exibido</string>
+    <string name="pref_default_display_name">Jucelinux</string>
+
+    <string name="pref_title_add_friends_to_messages">Adicionar amigos à mensagem:</string>
+    <string-array name="pref_example_list_titles">
+        <item>Sempre</item>
+        <item>Quando possível</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Sincronização de &amp; dados</string>
+
+    <string name="pref_title_sync_frequency">Frequência de sincronização</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>3 horas</item>
+        <item>1 hora</item>
+        <item>6 horas</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">Configurações de sincornização</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">Notificação de mensagem</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silêncio</string>
+
+    <string name="pref_title_vibrate">Vibrar</string>
+</resources>
